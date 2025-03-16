@@ -11,7 +11,7 @@ This Mini Project for SC1015 (Introduction to Data Science and Artificial Intell
 **Contributors**
 ---
 @yyjjjjj (Exploratory Data Analysis)  
-@nadyacheng ( MODEL 1)  
+@nadyacheng (MODEL 1)  
 @deleahtan (MODEL 2)
 
 **Problem Definition**
