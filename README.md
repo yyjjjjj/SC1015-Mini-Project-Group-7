@@ -10,9 +10,10 @@ This Mini Project for SC1015 (Introduction to Data Science and Artificial Intell
 
 **Contributors**
 ---
+all - Data Preparation and Cleaning
 @yyjjjjj (Exploratory Data Analysis)  
-@nadyacheng (MODEL 1)  
-@deleahtan (MODEL 2)
+@nadyacheng (Binary Decision Tree Classification)  
+@deleahtan (Random Forest Classification)
 
 **Problem Definition**
 ---
@@ -21,8 +22,8 @@ This Mini Project for SC1015 (Introduction to Data Science and Artificial Intell
 
 **Models Used**
 ---
-MODEL 1 NAME  
-MODEL 2 NAME
+Binary Decision Tree Classification
+Random Forest Classification
 
 **Conclusions**
 ---
