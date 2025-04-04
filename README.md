@@ -10,7 +10,7 @@ This Mini Project for SC1015 (Introduction to Data Science and Artificial Intell
 
 **Contributors**
 ---
-all - Data Preparation and Cleaning
+all - Data Preparation and Cleaning  
 @yyjjjjj - Exploratory Data Analysis
 @nadyacheng - Binary Decision Tree Classification
 @deleahtan - Random Forest Classification
