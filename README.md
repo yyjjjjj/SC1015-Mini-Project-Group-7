@@ -22,7 +22,7 @@ all - Data Preparation and Cleaning
 
 **Models Used**
 ---
-Binary Decision Tree Classification
+Binary Decision Tree Classification  
 Random Forest Classification
 
 **Conclusions**
