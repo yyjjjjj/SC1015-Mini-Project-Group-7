@@ -28,6 +28,11 @@ Random Forest Classification
 **Conclusions**
 ---
 
+**What we learnt from this project**
+---
+
+---
+
 **References**
 ---
 https://www.kaggle.com/datasets/mandysia/obesity-dataset-cleaned-and-data-sinthetic/data
