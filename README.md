@@ -5,7 +5,7 @@
 This Mini Project for SC1015 (Introduction to Data Science and Artificial Intelligence) focuses on factors that influence risk of obesity.
 
 1. Data Preparation and Cleaning https://github.com/yyjjjjj/SC1015-Mini-Project-Group-7/blob/9a5c3a5a767bbd28755769ae11887c1493fe89d2/Data_Preparation_and_Cleaning.ipynb
-2. Exploratory Data Analysis Exploratory_Data_Analysis.ipynb
+2. Exploratory Data Analysis https://github.com/yyjjjjj/SC1015-Mini-Project-Group-7/blob/ef76c183c17c01a46725b4cdf2296dd93ca94c18/Exploratory_Data_Analysis.ipynb
 3. Machine Learning Techniques
 4. Data-Driven Insights and Conclusion
 
