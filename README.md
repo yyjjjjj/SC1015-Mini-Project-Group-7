@@ -22,23 +22,33 @@ all - Data Preparation and Cleaning
 
 **Models Used**
 ---
-Binary Decision Tree Classification  
-Random Forest Classification
+1. Binary Decision Tree Classification  
+2. Random Forest Classification
 
-**Conclusions**
+**Process:**
 ---
-- Propoer data cleaning were essential to ensuring our models could learn effectively.
+- Proper data cleaning were essential to ensuring our models could learn effectively.
 - Exploratory Data Analysis (EDA) and visualization helped us identify key trends and correlations that guided our model-building process.
 - Decision Tree Classifiers provided clear, interpretable models and gave us insight into how different features contributed to predictions.
-- Random Forest classifiers outperformed basic decision trees in terms of accuracy and generalization, showing the power of ensemble methods.
+- Random Forest Classifiers outperformed basic decision trees in terms of accuracy and generalization, showing the power of ensemble methods.
 - GridSearchCV helped us fine-tune hyperparameters to improve model performance, demonstrating the value of systematic tuning.
 - Our final models achieved good predictive performance, confirming that it's feasible to classify the data accurately using machine learning techniques.
+
+**Conclusions:**
+---
+- Higher physical activity frequency lowers obesity risk most significantly.
+- A family history of obesity also has a strong impact on obesity risk.
+- Lower alcohol consumption reduces obesity risk, but only to a small extent.
+- Less frequent consumption of high-calorie foods lowers obesity risk to the smallest extent.
+- Strategies to reduce Obesity should focus mainly on encouraging physical activity. Addiitonally, early screening andtargeted interventions should be offered to individuals with a family history of Obesity to enable early lifestyle changes and prevent obesity before it develops.
+- Both our Decision Tree Classification and Random Forest Classification models have rather high classification accuracy of above 0.777. However, Random Forest Classification demonstrates better balance between minimising incorrect classifications (FPs and FNs) and identifying TPs, thus Random Forest Classification can be considered slightly more effective than Decision Tree Classification.
+
 
 
 **What we learnt from this project**
 ---
 - How to collaborate using GitHub for sharing code, managing versions, and working as a team.
-- Implementation and comparison of multiple classification models (Decision Trees and Random Forests.)
+- Implementation and comparison of multiple classification models (Decision Trees and Random Forests)
 - How to use GridSearchCV to perform hyperparameter tuning and improve model performance.
 - Techniques for data preprocessing, including handling missing data, label encoding, and standardization.
 - Importance of feature selection and its impact on model accuracy and interpretability.
