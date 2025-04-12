@@ -8,7 +8,7 @@ This is project done by ECDS Group 7 (Ying Jie, Nadya, Deleah).
 1. Data Preparation and Cleaning https://github.com/yyjjjjj/SC1015-Mini-Project-Group-7/blob/dccb0618122ddb404d0de755bd4879da5cbf6104/Data_Cleaning.ipynb
 2. Exploratory Data Analysis https://github.com/yyjjjjj/SC1015-Mini-Project-Group-7/blob/eb1781519d986be31476ab99835e76d3be338ae7/Data_Exploratory_Analysis.ipynb
 3. Machine Learning Techniques
-4. Data-Driven Insights and Conclusion
+4. Data-Driven Insights and Conclusion https://github.com/yyjjjjj/SC1015-Mini-Project-Group-7/blob/bb4389b0861d4a02d9b102066ab046c6fc224b7c/Remarks_Data_driven_Insights_%26_Conclusion.ipynb
 
 **Contributors**
 ---
