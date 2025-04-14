@@ -67,3 +67,4 @@ all - Data Preparation and Cleaning
 **References**
 ---
 https://www.kaggle.com/datasets/mandysia/obesity-dataset-cleaned-and-data-sinthetic/data
+https://www.nuhs.edu.sg/patient-care/find-a-condition/obesity
