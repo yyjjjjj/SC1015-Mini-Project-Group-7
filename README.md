@@ -1,7 +1,5 @@
 # Welcome to Obesity Analysis Repository
 **About**
----
-
 This Mini Project for SC1015 (Introduction to Data Science and Artificial Intelligence) focuses on factors that influence risk of obesity.  
 This project is done by ECDS Group 7 (Ying Jie, Nadya, Deleah).
 
