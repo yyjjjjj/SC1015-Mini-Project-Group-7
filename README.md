@@ -71,3 +71,5 @@ https://www.kaggle.com/datasets/mandysia/obesity-dataset-cleaned-and-data-sinthe
 https://www.nuhs.edu.sg/patient-care/find-a-condition/obesity
 
 https://www.kaggle.com/code/prashant111/random-forest-classifier-tutorial
+
+https://www.datacamp.com/tutorial/random-forests-classifier-python
