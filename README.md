@@ -11,6 +11,7 @@ This is project done by ECDS Group 7 (Ying Jie, Nadya, Deleah).
 4. Machine Learning Techniques
 5. Data-Driven Insights and Conclusion https://github.com/yyjjjjj/SC1015-Mini-Project-Group-7/blob/bb4389b0861d4a02d9b102066ab046c6fc224b7c/Remarks_Data_driven_Insights_%26_Conclusion.ipynb
 6. Presentation Slides https://github.com/yyjjjjj/SC1015-Mini-Project-Group-7/blob/aa2ca658579d2fe190f7564bc011989b0c812496/Slides.pdf
+7. Datasets https://github.com/yyjjjjj/SC1015-Mini-Project-Group-7/tree/821833eec4b90ea464083da04d351d008c81c423/data
 
    
 **Contributors**
