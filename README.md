@@ -72,3 +72,5 @@ https://www.nuhs.edu.sg/patient-care/find-a-condition/obesity
 https://www.kaggle.com/code/prashant111/random-forest-classifier-tutorial
 
 https://www.datacamp.com/tutorial/random-forests-classifier-python
+
+https://www.jcchouinard.com/scikit-learn-gridsearchcv-in-python/
