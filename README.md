@@ -28,8 +28,8 @@ all - Data Preparation and Cleaning
 
 **Models Used**
 ---
-1. Binary Decision Tree Classification https://github.com/yyjjjjj/SC1015-Mini-Project-Group-7/blob/f5aa1df37d2bfd679c82804b8a68bc688a1e787d/Model_1_Binary_Decision_Tree_Classification.ipynb
-2. Random Forest Classification https://github.com/yyjjjjj/SC1015-Mini-Project-Group-7/blob/8fb2ad83e356a80ddff3d7374ad0e5e5978b31b3/Model_2_Random_Forest_Classification.ipynb
+1. [Binary Decision Tree Classification](https://github.com/yyjjjjj/SC1015-Mini-Project-Group-7/blob/f5aa1df37d2bfd679c82804b8a68bc688a1e787d/Model_1_Binary_Decision_Tree_Classification.ipynb)
+2. [Random Forest Classification](https://github.com/yyjjjjj/SC1015-Mini-Project-Group-7/blob/8fb2ad83e356a80ddff3d7374ad0e5e5978b31b3/Model_2_Random_Forest_Classification.ipynb)
    
 **Process:**
 ---
