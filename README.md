@@ -69,3 +69,5 @@ all - Data Preparation and Cleaning
 https://www.kaggle.com/datasets/mandysia/obesity-dataset-cleaned-and-data-sinthetic/data
 
 https://www.nuhs.edu.sg/patient-care/find-a-condition/obesity
+
+https://www.kaggle.com/code/prashant111/random-forest-classifier-tutorial
